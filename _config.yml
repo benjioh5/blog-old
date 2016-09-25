@@ -3,19 +3,19 @@
 # # # # # # # # # # # # #
 
 # Basic
-name:               "Kiko Plus"
+name:               "안녕하신가! 힘세고 강한 포폴, 만약 내게 물어보면 나는 효근"
 
 
 
 author:
-  name:             your-name
-  facebook:         your-id
-  twitter:          your-id
-  github:           your-id
-  linkedin:         your-id
-  medium:           your-id
-  tumblr:           your-id
-  email:            your-id@your-email.com
+  name:             benjioh5
+  facebook:         benjioh5
+  twitter:          benjioh5
+  github:           benjioh5
+  #linkedin:         
+  #medium:           
+  #tumblr:           
+  email:            benjioh5@gmail.com
 
 # Google-analytics
 google-analytics:
@@ -23,12 +23,12 @@ google-analytics:
 
 # Disqus
 disqus:
-  id:               "your-id"
+  id:               "benjioh5"
 
 # URL
-url:                "https://AWEEKJ.github.io"
+url:                "https://benjioh5.github.io"
 #url:               "localhost:4000"
-baseurl:            ""
+baseurl:            "/blog/"
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
